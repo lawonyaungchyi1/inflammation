@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/inflammation/static/css/main.3d10672c.css",
+    "main.js": "/inflammation/static/js/main.3bb6b037.js",
+    "static/media/nyanlin.png": "/inflammation/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
+    "index.html": "/inflammation/index.html",
+    "main.3d10672c.css.map": "/inflammation/static/css/main.3d10672c.css.map",
+    "main.3bb6b037.js.map": "/inflammation/static/js/main.3bb6b037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.3bb6b037.js"
+  ]
+}
